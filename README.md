@@ -1,4 +1,4 @@
-# auto-backup
+# auto-uncolorize
 An automatic1111 webui extension to save your image generations as black and white. 
 
 ## Examples
