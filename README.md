@@ -14,5 +14,4 @@ An automatic1111 webui extension to save your image generations as black and whi
 ## Usage
 Check `Save final images as black and white` if you want the colors of your images to be removed at the end of the sampling process:  
   
-![image](https://user-images.githubusercontent.com/34081873/216150206-c807f59f-79d7-49a6-a5c3-6163add168dc.png)
-
+![image](https://user-images.githubusercontent.com/34081873/216150748-b1771ba9-1453-40a6-93ec-2fe79565c395.png)
