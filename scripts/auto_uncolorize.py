@@ -12,7 +12,7 @@ class AutoBackupScript(scripts.Script):
         return "Uncolorize"
 
     def ui(self, is_img2img):
-        is_active_checkbox = gr.Checkbox(value=False, label='Save image as black and white', interactive=True)
+        is_active_checkbox = gr.Checkbox(value=False, label='Save final images as black and white', interactive=True)
         return [is_active_checkbox]
 
     def show(self, is_img2img):
